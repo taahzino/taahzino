@@ -16,7 +16,7 @@ I develop websites and web applications. My favorite programming language is Jav
 
 - 📫 How to reach me **tahsintushar.dev@gmail.com**
 
-- 📄 Know about my experiences [https://devtahsin.com/resume.pdf](https://devtahsin.com/resume.pdf)
+- 📄 Know about my experiences [https://devtahsin.com/resume_tahsinahmed.pdf](https://devtahsin.com/resume_tahsinahmed.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
