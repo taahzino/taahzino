@@ -19,14 +19,64 @@ I develop websites and web applications. My favorite programming language is Jav
 - 📄 Know about my experiences [https://devtahsin.com/resume_tahsinahmed.pdf](https://devtahsin.com/resume_tahsinahmed.pdf)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="left" style="display:flex;">
+
+<a href="https://www.facebook.com/devtahsin/" target="_blank" style="background:#fff;margin:10px;padding:5px;border-radius:15px;display:flex;align-items:center;justify-content:center;">
+    <img src="https://img.icons8.com/fluency/452/facebook-new.png" height="40px" width="40px" />
+</a>
+
+<a href="mailto:tahsintushar.dev@gmail.com" target="_blank" style="background:#fff;margin:10px;padding:5px;border-radius:15px;display:flex;align-items:center;justify-content:center;">
+    <img src="https://img.icons8.com/fluency/344/gmail-new.png" height="40px" width="40px" />
+</a>
+
+<a href="https://www.linkedin.com/in/tahsintushar/" target="_blank" style="background:#fff;margin:10px;padding:5px;border-radius:15px;display:flex;align-items:center;justify-content:center;">
+    <img src="https://img.icons8.com/color/344/linkedin-2--v1.png" height="40px" width="40px" />
+</a>
+
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<div align="center" style="display:flex;justify-content:center;flex-wrap:wrap">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushariar&show_icons=true&locale=en&layout=compact" alt="tushariar" /></p>
+<img src="https://devtahsin.com/images/b30d08ee5bc34e254f66.png" alt="html" style="width:50px;height:50px;object-fit:cover;margin:15px"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushariar&show_icons=true&locale=en" alt="tushariar" /></p>
+<img src="https://devtahsin.com/images/5721a3928fe43de6baf8.png" alt="css" style="width:50px;height:50px;object-fit:cover;margin:15px"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushariar&" alt="tushariar" /></p>
+<img src="https://devtahsin.com/images/89ed6db096be955d6406.png" alt="javascript" style="width:50px;height:50px;object-fit:cover;margin:15px"/>
+
+<img src="https://devtahsin.com/images/ff456cc62b0450d70c3d.png" alt="sass" style="width:50px;height:50px;object-fit:cover;margin:15px"/>
+
+<img src="https://devtahsin.com/images/74feed5bd996d6c50476.png" alt="bootstrap" style="width:50px;height:50px;object-fit:cover;margin:15px"/>
+
+<img src="https://devtahsin.com/images/e28e1a7073c8fa14c1e1.png" alt="react" style="width:50px;height:50px;object-fit:cover;margin:15px"/>
+
+<img src="https://devtahsin.com/images/a4713ff2ca054bf23788.png" alt="node.js" style="width:50px;height:50px;object-fit:cover;margin:15px"/>
+
+<img src="https://devtahsin.com/images/fb2f814555a485cddd6a.png" alt="express.js" style="width:50px;height:50px;object-fit:cover;margin:15px"/>
+
+<img src="https://devtahsin.com/images/a8889d623357ad8ce30e.png" alt="mongodb" style="width:50px;height:50px;object-fit:cover;margin:15px"/>
+
+<img src="https://devtahsin.com/images/a54d3fa44e02f2f61e69.png" alt="git" style="width:50px;height:50px;object-fit:cover;margin:15px"/>
+
+<img src="https://devtahsin.com/images/fe76dffdee5f8240220d.png" alt="github" style="width:50px;height:50px;object-fit:cover;margin:15px"/>
+
+<img src="https://devtahsin.com/images/d9f18289ef62ea5aa5ca.png" alt="webpack" style="width:50px;height:50px;object-fit:cover;margin:15px"/>
+
+<img src="https://devtahsin.com/images/80b5f75ea075ea2601dc.png" alt="cpanel" style="width:50px;height:50px;object-fit:cover;margin:15px"/>
+
+<img src="https://devtahsin.com/images/09f0a14d47c7fd1cd51a.png" alt="heroku" style="width:50px;height:50px;object-fit:cover;margin:15px"/>
+
+<img src="https://devtahsin.com/images/780c598d1b69c4f2229b.png" alt="netlify" style="width:50px;height:50px;object-fit:cover;margin:15px"/>
+</div>
+
+<br />
+
+<div style="display:flex;flex-direction:row;flex-wrap:wrap;align-items:center;justify-content:center;">
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushariar&show_icons=true&locale=en&layout=compact" alt="tushariar" style="width:45%;height:130px;background:#fff;border-radius:10px;margin:5px;"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushariar&show_icons=true&locale=en" alt="tushariar" style="width:45%;height:130px;background:#fff;border-radius:10px;margin:5px;"/>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushariar&" alt="tushariar" style="width:45%;height:130px;background:#fff;border-radius:10px;margin:5px;"/>
+
+</div>
