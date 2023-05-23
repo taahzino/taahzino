@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Tahsin Ahmed Tushar</h2>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 <p align="center">
-I develop websites and web applications. My favorite programming language is JavaScript. That's why I use JavaScript both in the frontend and backend (Node.js). Currently, I am working as a freelancer. I am available for any job opportunity that matches my skills and suits my interest.
+I develop websites and web applications. My favorite programming language is JavaScript. That's why I use JavaScript both in the frontend and backend (Node.js). Currently, I am working as a Junior Web Developer at Notionhive Bangladesh Limited. I have also done some freelance work earlier. I love to learn new things and I am always open to learning new technologies.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushariar&label=Profile%20views&color=0e75b6&style=flat" alt="tushariar" /> </p>
