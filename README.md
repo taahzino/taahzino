@@ -6,9 +6,9 @@ I develop websites and web applications. My favorite programming language is Jav
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushariar&label=Profile%20views&color=0e75b6&style=flat" alt="tushariar" /> </p>
 
-- 🔭 I’m currently working on [Docify](https://docify.devtahsin.com/)
+- 🔭 I’m currently working on DriveJS (An automatic file uploader)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://devtahsin.com/](https://devtahsin.com/)
 
