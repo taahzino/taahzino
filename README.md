@@ -1,4 +1,4 @@
-Hi there! I am a Software Engineer with 3 years of experience, expert in Node.js, React/Next.js, Supabase, MongoDB/PostgreSQL, Prisma, Flutter, and PHP-WordPress.
+Hi there! I am a Software Engineer with 4 years of experience, expert in Node.js, React/Next.js, Supabase, MongoDB/PostgreSQL, Prisma, Flutter, and PHP-WordPress.
 
 ## Current Stack
 
