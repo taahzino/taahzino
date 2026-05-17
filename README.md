@@ -4,7 +4,7 @@ Software Engineer from 🇧🇩 Bangladesh, currently pursuing a B.Sc. in Comput
 
 I work mostly with the **MERN stack**, **Flutter**, and cloud infrastructure. Over the years, I've worked on products for startups, SMEs, and international clients — from tourism platforms to CRM-integrated management systems.
 
-Currently working as a **Software Engineer at** [Notionhive](https://notionhive.com?utm_source=chatgpt.com) where I lead a small dev team, ship full-stack applications, and focus heavily on performance, scalability, and clean architecture.
+Currently working independently with global companies and startups, building scalable web & mobile applications while focusing on performance, scalability, and clean architecture. Previously, I worked at Notionhive for nearly 4 years as a Software Engineer, where I led a small development team and delivered full-stack products across multiple industries.
 
 ---
 
