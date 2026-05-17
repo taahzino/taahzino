@@ -1,21 +1,94 @@
-Hi there! I am a Software Engineer with 4 years of experience, expert in Node.js, React/Next.js, Supabase, MongoDB/PostgreSQL, Prisma, Flutter, and PHP-WordPress.
+# Hey, I'm Tahsin 👋
 
-## Current Stack
+Software Engineer from 🇧🇩 Bangladesh, currently pursuing a B.Sc. in Computer Science & Engineering while building scalable web & mobile applications professionally since 2021.
 
-Highly proficient in any combinations of the following
+I work mostly with the **MERN stack**, **Flutter**, and cloud infrastructure. Over the years, I've worked on products for startups, SMEs, and international clients — from tourism platforms to CRM-integrated management systems.
 
-✨ React / Next.js, Node-Express.js
+Currently working as a **Software Engineer at** [Notionhive](https://notionhive.com?utm_source=chatgpt.com) where I lead a small dev team, ship full-stack applications, and focus heavily on performance, scalability, and clean architecture.
 
-✨ Prisma, MySQL / PostgreSQL / MongoDB / Supabase
+---
 
-✨ Supabase Auth / NextAuth / Custom JWT
+## ⚡ Tech Stack
 
-✨ Tailwind CSS / Shadcn
+### Backend
 
-✨ DigitalOcean / Vercel / Heroku / Cpanel
+* Node.js
+* Express.js
+* PostgreSQL
+* MongoDB
+* MySQL
+* Prisma ORM
 
-✨ Dart, Flutter
+### Frontend
 
-✨ Git, Github / BitBucket, Docker
+* React.js
+* Next.js
+* HTML5 / CSS3 / JavaScript
+* Tailwind CSS
+* Shadcn/UI
 
-✨ Asana / ClickUp / Trello
+### Mobile
+
+* Flutter
+* Dart
+
+### Cloud & DevOps
+
+* AWS
+* DigitalOcean
+* Vercel
+* Nginx
+* PM2
+
+### Tools
+
+* Git & GitHub
+* Bitbucket
+* Trello
+* Asana
+* ClickUp
+* Notion
+
+---
+
+## 🚀 Featured Projects
+
+* **JETC** — Tourism web & mobile platform
+  🔗 https://japextours.com
+
+* **TRRIMBER** — Cross-platform mobile app
+  🔗 https://bit.ly/4aq02vs
+
+* **INSUPRIO** — Web & mobile management platform
+  🔗 https://bit.ly/4aq0ud8
+
+* **Masla Empathy Lab**
+  🔗 https://maslaempathylab.com
+
+* **Common Earth**
+  🔗 https://commonearth.com
+
+* **BSRM School of Engineering**
+  🔗 https://engineering.bracu.ac.bd
+
+---
+
+## 📈 Currently Exploring
+
+* AI Assistants & Automation
+* System Design
+* Cloud Architecture
+* Real-time Applications
+* Product Engineering
+
+---
+
+## 🌍 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/taahzino
+* Email: [taahzino@gmail.com](mailto:taahzino@gmail.com)
+
+---
+
+> I enjoy building products that are fast, scalable, and actually useful.
+> Clean architecture, good UX, and solving real problems > hype.
